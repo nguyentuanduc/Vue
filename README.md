@@ -1,2 +1,2 @@
 # Vue
-Vue js front end project
+Vue js front end project for spring
